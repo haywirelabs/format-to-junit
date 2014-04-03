@@ -1,0 +1,15 @@
+{
+  "author": "Joe Osborne",
+  "name": "format-to-junit",
+  "description": "Node.js application for formatting CLI output logs to jUnit XML",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haywirelabs/format-to-junit.git"
+  },
+  "dependencies": {
+    "xml-writer": "1.4.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
