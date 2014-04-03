@@ -8,7 +8,8 @@
     "url": "https://github.com/haywirelabs/format-to-junit.git"
   },
   "dependencies": {
-    "xml-writer": "1.4.1"
+    "xml-writer": "1.4.1",
+    "split": "0.3.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
