@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "xml-writer": "1.4.1",
+    "argparse": "0.1.15",
     "split": "0.3.0"
   },
   "devDependencies": {},
