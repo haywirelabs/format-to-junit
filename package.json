@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "xmlbuilder": "2.2.1",
+    "xml2js": "0.4.2",
     "argparse": "0.1.15",
     "split": "0.3.0"
   },
